@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/modalyze-logo.png"; // görseli import et
+import logo from "../assets/modalyze-logo.PNG"; // görseli import et
 
 const Navbar = () => {
   return (
